@@ -34,20 +34,20 @@ const Home: NextPage = () => {
           for everyone.
         </h1>
         <h2 className="mx-auto mt-12 max-w-xl text-lg sm:text-gray-400  text-gray-500 leading-7">
-          Take a picture of your room and see how your room looks in different
+          Take a Stvmp of your room and see how your room looks in different
           themes. 100% free – remodel your room today.
         </h2>
         <Link
           className="bg-blue-600 rounded-xl text-white font-medium px-4 py-3 sm:mt-10 mt-8 hover:bg-blue-500 transition"
           href="/dream"
         >
-          Generate your dream room
+          Share your experience with real rovers
         </Link>
         <div className="flex justify-between items-center w-full flex-col sm:mt-10 mt-6">
           <div className="flex flex-col space-y-10 mt-4 mb-16">
             <div className="flex sm:space-x-8 sm:flex-row flex-col">
               <div>
-                <h3 className="mb-1 font-medium text-lg">Original Room</h3>
+                <h3 className="mb-1 font-medium text-lg">Know your next destination</h3>
                 <Image
                   alt="Original photo of a room with roomGPT.io"
                   src="/1.jpg"

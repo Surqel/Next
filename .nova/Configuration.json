@@ -1,0 +1,4 @@
+{
+  "klaemo.standardjs.config.autoFixOnSave" : "Inherit from global settings",
+  "workspace.preview_root" : "."
+}
